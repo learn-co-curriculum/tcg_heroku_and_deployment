@@ -18,7 +18,7 @@ Read the following sections and follow the instructions to deploy the blogger ap
 - Heroku tips and tricks
 - Common Questions
 
-If you get stuck, you can take a look at the [Heroku Docs on Deployment](https://devcenter.heroku.com/articles/getting-started-with-rails5) or follow along with a [Deployment Lecture Video]()
+If you get stuck, you can take a look at the [Heroku Docs on Deployment](https://devcenter.heroku.com/articles/getting-started-with-rails5) or follow along with a [Deployment Lecture Video](https://youtu.be/h02-iyUkCjI)
 
 ## Deployment
 
